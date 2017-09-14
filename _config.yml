@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           /:categories/:year/:month/:day/:title.html
+
+# Setup
+title:               Myelin
+tagline:             'Badr Interactive Knowledge Base System'
+description:         'Myelin adalah sebuah knowledge base system yang berfokus pada prinsip kolaboratif dan pembelajaran kolektif dengan tujuan untuk mengakselerasi knowledge para developer.'
+url:                 http://myelin.badr.co.id
+paginate:            5
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-sitemap, jekyll-paginate]
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
