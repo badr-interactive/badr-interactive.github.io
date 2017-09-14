@@ -4,17 +4,11 @@
 permalink:           /:categories/:year/:month/:day/:title.html
 
 # Setup
-title:               Myelin
-tagline:             'Badr Interactive Knowledge Base System'
-description:         'Myelin adalah sebuah knowledge base system yang berfokus pada prinsip kolaboratif dan pembelajaran kolektif dengan tujuan untuk mengakselerasi knowledge para developer.'
-url:                 http://myelin.badr.co.id
+title:               Badr Interactive Engineering
+tagline:             'Berbagi pengalaman untuk menciptakan software yang lebih baik'
+description:         'Repository ilmu dan pengalaman tim Engineering Badr Interactive'
+url:                 https://badr-interactive.github.io
 paginate:            5
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
