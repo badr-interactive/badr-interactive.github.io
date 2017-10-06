@@ -12,6 +12,8 @@ Hai para myelinians, pada tulisan kali ini awak (baca saya) mau berbagi kembali 
 
 Jadi pada project huurun ini, pertama kalinya saya menerapkan pair programming bareng 'Oom'. Karena pair programming bareng 'Oom' mau tidak mau saya jadi harus menyesuaikan ritme kode saya dengannya. Saya juga pertama kalinya memakai starter kit imba yang dibuat ama 'Oom'. Walaupun awalnya terasa sulit, namun pada akhirnya saya dapat menyesuaikan ritme kode saya dengan kode yang dibuat sama 'Oom'. Berikut beberapa insight dan pelajaran yang saya dapat dari ngoding bareng 'Oom'.
 
+<!-- break -->
+
 ## Work with two monitors : Increase your productivity
 Jadi pada project huurun inilah pertama kalinya saya mencoba untuk ngoding dengan 2 monitor. Tentunya karena terinspirasi dari 'Oom'. Awalnya saya merasa sedikit kesulitan saat memakai dua layar, karena pikiran kita jadi terpecah pada dua layar. Tapi akhirnya saya bisa beradaptasi dengan menggunakan dua monitor.
 

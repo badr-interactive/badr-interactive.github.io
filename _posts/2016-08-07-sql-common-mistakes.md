@@ -10,6 +10,9 @@ category: 'Database'
 Seringkali orang berpikir saat aplikasi berjalan lambat, banyak yang menyalahkan bahasa pemrograman yang digunakan, framework, dan hal lainnya yang sebetulnya tidak mereka cek **sebenar-benarnya** dimana letak kesalahannya.
 Kali ini Saya ingin menjelaskan mengenai beberapa _common mistakes_ yang biasa dilakukan saat kita melakukan query ke database.
 Hal umum seperti ini terjadi saat kita berurusan dengan _data yang banyak_, umumnya ketika membuat pengolahan **laporan** dari data - data yang sudah ada.
+
+<!-- break -->
+
 Contoh benchmark dan environment yang saya lakukan adalah sebagai berikut :
 ```
 CPU Quad Core

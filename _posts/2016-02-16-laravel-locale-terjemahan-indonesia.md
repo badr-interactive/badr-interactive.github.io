@@ -13,6 +13,8 @@ Penggunaannya pun gampang banget, tinggal panggil `trans($key)` di view tempat s
 dan tadaa muncul lah string yang dimaksud, sesuai dengan setting-an bahasa di dalam config/app.php. Untuk cara
 pakai yang lengkap silakan merujuk ke [dokumentasinya](https://laravel.com/docs/5.0/localization).
 
+<!-- break -->
+
 Secara default, Laravel menyediakan beberapa file pada folder `resource/lang/en` yang digunakan untuk beberapa
 keperluan umum, contohnya pesan validasi error ketika submit form. File yang tersedia bisa bervariasi tergantung versi
 laravel yang dipakai, namun umumnya ada file `validation.php` yang berisi pesan error ketika memvalidasi form.
@@ -25,7 +27,6 @@ Cara pakainya cukup mudah:
 3. Copy text di bawah yang sesuai dengan nama filenya ke file yang ada di folder `id` tadi
 4. Like this post (eh gak ada ya? :p)
 
-<!-- break -->
 
 ## validation.php
 

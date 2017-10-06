@@ -11,6 +11,8 @@ category: 'Developer Insight'
 
 Pada tulisan ini saya akan berbagi pengalaman saya melanjutkan kodingan javascript yang dibuat oleh seorang freelancer dari tempat yang jauh di sebrang lautan sana untuk sebuah project bernama Huurun. Jadi di Huurun itu kan ada fitur bikin parfum yang direpresentasikan dalam bentuk radar chart. Buat yang gak tahu apa itu radar chart mungkin bisa lihat di google atau buat kalian yang suka maen PES, radar chart itu kurang lebih sama seperti graph skill pemain yang biasanya berbentuk segi-6.
 
+<!-- break -->
+
 Ok mungkin beberapa dari kalian penasaran seimba apa kodingan yang dibikin oleh si freelancer ini. Seperti biasa yang namanya Asians emang agak mindblown gaya ngodingnya. Berikut saya lampirkan sedikit potongan kodingannya
 
 ~~~
