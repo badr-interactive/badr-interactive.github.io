@@ -2,7 +2,7 @@
 layout: post
 title: CocoaPods - iOS Dependency Manager
 author: Riyan N. Hidayat
-category: 'iOS'
+category: 'IOS Development'
 ---
 
 * TOC

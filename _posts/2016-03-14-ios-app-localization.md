@@ -2,7 +2,7 @@
 layout: post
 title: App Localization iOS
 author: Riyan N. Hidayat
-category: 'iOS'
+category: 'IOS Development'
 ---
 
 * TOC

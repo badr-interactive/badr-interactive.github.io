@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Add SSL Self-Signed Certificate in Swift(IOS)
-category: 'Swift Development'
+category: 'IOS Development'
 ---
 
 ## Introduction
