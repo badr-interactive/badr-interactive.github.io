@@ -6,13 +6,13 @@ category: 'Swift Development'
 
 ## Introduction
 
-Kembali lagi dengan saya yang cupu ini, hehehe...\n 
+Kembali lagi dengan saya yang cupu ini, hehehe...<br> 
 Nah, sebelumnya kan saya pernah post tentang konfigurasi *SSL self-signed certificate* di Android menggunakan library Volley(untuk baca lengkapnya di [sini](http://engineering.badr.co.id/android%20development/2016/06/15/Add-Certificate-in-Volley.html)), kali ini saya akan share bagaimana cara konfigurasi si *SSL self-signed* di IOS dengan bahasa pemrogramman *Swift*. Yukk, langsung ajah...
 
 
 ## Apa itu *SSL Certificate*?
 
-Mungkin yang sudah pernah baca artikel sebelumnya tentang konfigurasi *SSL self-signed certificate* di Android, paasti tahu apa itu *SSL Certificate*?, karena sudah dijelaskan di sana. Tapi untuk yang belum tahu, ini dia penjelasannya :\n
+Mungkin yang sudah pernah baca artikel sebelumnya tentang konfigurasi *SSL self-signed certificate* di Android, paasti tahu apa itu *SSL Certificate*?, karena sudah dijelaskan di sana. Tapi untuk yang belum tahu, ini dia penjelasannya :<br>
 SSL singkatan dari *Secured Socket Layer*. SSL Certificate ini berfungsi untuk mengamankan transaksi data melalui http url. Biasanya situs yang membutuhkan security menggunakan 'https://'.  Transmisi data seperti informasi kartu kredit, nama pengguna dan password account, semua informasi sensitif lain harus diamankan untuk mencegah eavesdropping, pencurian data pada saat proses transaksi online, dan lain-lain. Sertifikat SSL dapat mengamankan data tidak hanya diaplikasikan melalui situs web saja tetapi dalam transmisi email pun dapat dijamin dengan SSL ini. Berikut juga dengan API, karena API ini adalah jembatan antara server dengan aplikasi frontend dalam transmit data. Lebih lengkapnya bisa baca artikel [berikut](http://klien.indositehost.com/knowledgebase.php?action=displayarticle&id=13).
 
 <!-- break -->
