@@ -78,7 +78,7 @@ func configureAlamoFire() {
 ~~~
 
 
-Sebelum request data ke server, panggil fungsi konfigusai tersebut :
+Sebelum request data ke server, panggil fungsi konfigurasi tersebut :
 
 ~~~
 configureAlamoFire()
