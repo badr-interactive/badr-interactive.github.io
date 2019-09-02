@@ -11,7 +11,13 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+    {% assign author = site.data.authors[post.author] %}
+    {% if author %}
+    <span>
+        by <a href="{{ author.web }}" target="_blank">{{ author.name }}</a>
+    </span>
+    &nbsp;&#45;&nbsp;
+    {% endif %}
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
     {{ post.content | split: '<!-- break -->' | first }}
